@@ -1,3 +1,10 @@
+## GENERAL SETUP 
+
+    Follow these steps;
+
+    -git clone https://github.com/johnLamberts/Basic-HTML-and-CSS-SCSS-.git 
+    -npm i
+
 # Basic-HTML-and-CSS-SCSS-
 This is only for educational purposes
 
