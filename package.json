@@ -1,0 +1,17 @@
+{
+  "name": "nacours",
+  "version": "1.0.0",
+  "description": "advanced css ",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "John Lambert",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
